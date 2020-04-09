@@ -1,6 +1,6 @@
 # Optimization
 
-This repository contains the Julia implementation of linear and integer optimization using line search, gradient descent and Newton's method.
+This repository contains the Julia implementation of non-linear optimization using line search, gradient descent and Newton's method.
 
 Technology used: Julia
 
